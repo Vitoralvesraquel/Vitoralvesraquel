@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoralvesraquel&theme=tokyonight&hide=Ruby&hide=HTML&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoralvesraquel&theme=tokyonight&hide=Ruby,HTML&card_width=500)
 
 
 <!--
