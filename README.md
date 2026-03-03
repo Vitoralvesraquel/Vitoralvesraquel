@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoralvesraquel&theme=tokyonight&hide=Ruby,HTML&card_width=500)
-
-
 <!--
 **Vitoralvesraquel/Vitoralvesraquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
