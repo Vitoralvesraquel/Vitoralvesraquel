@@ -24,7 +24,7 @@ Built in Python during the TripleTen bootcamp.
 | **Oil Well Location Selection** | Linear regression and bootstrap (1,000 samples) to choose where to drill 200 new wells across three regions | Loss risk of 1.2% to 7.0% by region against a 2.5% limit; flagged a likely data leakage problem before recommending a region | [Report](https://vitoralvesraquel.github.io/oil-well-prediction/) · [Code](https://github.com/Vitoralvesraquel/oil-well-prediction) |
 | **Mobile Plan Recommendation** | Compared decision tree, random forest and logistic regression on 3,214 users, tuning hyperparameters on a validation set | Random forest reached 0.798 test accuracy vs a 0.694 baseline | [Report](https://vitoralvesraquel.github.io/mobile-users-behavior/) · [Code](https://github.com/Vitoralvesraquel/mobile-users-behavior) |
 | **Taxi Trips and Weather** | Cleaned three datasets, explored them with Plotly and ran a Welch's t-test | Trips from the Loop to O'Hare take longer on rainy Saturdays (p < 0.001) | [Report](https://vitoralvesraquel.github.io/cab-trips-data-analysis/) · [Code](https://github.com/Vitoralvesraquel/cab-trips-data-analysis) |
-| **Video Game Sales Analysis** | Analyzed sales and ratings data to find the most profitable game to launch | A shooter rated E or M, for PS4 and Xbox One | [Code](https://github.com/Vitoralvesraquel/games_DA) |
+| **Video Game Sales Analysis** | Analyzed sales and ratings data to find the most profitable game to launch | A shooter rated E or M, for PS4 and Xbox One | [Report](https://vitoralvesraquel.github.io/games_DA/) · [Code](https://github.com/Vitoralvesraquel/games_DA) |
 
 ## Background
 
